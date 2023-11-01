@@ -1,0 +1,2 @@
+jar cfe task9.jar org.example.task9.Main -C out/ .
+java -jar task9.jar
